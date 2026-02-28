@@ -19,6 +19,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: designs user experiences, conducts user research, and ensures usability.
+- Scrum Master: facilitates agile ceremonies, removes blockers, and coaches the team.
+- Business Analyst: translates business requirements into user stories and acceptance criteria.
 
 ## Key Artifacts
 - Project Charter / One-pager
